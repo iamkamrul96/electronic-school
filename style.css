@@ -1,0 +1,205 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif; 
+}
+
+/* Navbar section Start */
+.navbar-light .navbar-nav .nav-link {
+    color: #000000;
+}
+.logo img{
+    width: 158px;
+    margin: 15px auto;
+}
+.nav-link{
+    font-size: 16px;
+}
+.sign-in {
+    width: 104px;
+    height: 43px;
+    color: #FFFFFF!important;
+    background-color: #21B573;
+    text-align: center;
+    border-radius: 33px;
+    align-items: center;
+}
+.sign-in:hover{
+    background-color:#7DA3A7;
+    color: cadetblue;
+}
+
+/* Navbar section end */
+
+/* Schedule section start */
+span{
+    color:#21B573;
+}
+.main h6{
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FD511A;
+}
+.main h1{
+    font-family: poppins;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 70px;
+}
+.main p{
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 16px;
+    color: #6C6B6B;
+    font-size: 16px;
+    line-height: 36px;
+}
+button{
+    width: 153px;
+    height: 43px;
+    border: 1px solid #21B573;
+    background-color: #21B573;
+    color: #FFFFFF;
+    border-radius: 33px;
+}
+button:hover{
+    background-color: #CED3E5;
+    color: #585859;
+}
+/* Schedule section end */
+
+/* Book Section start */
+.book{
+    margin: 100px auto;
+    text-align: center;
+}
+.book img{
+    width: 65px;
+    height: 75px;
+}
+.book h4{
+    margin-top: 20px;
+    font-size: 24px;
+    color: #413960;
+}
+.book p{
+    font-size: 16px;
+    color: #585859;
+}
+.Student2{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.Student2:hover{
+    background-color: #F1F1F1;
+}
+
+/* Book Section end */
+
+/* Online course section start */
+
+.container h2{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 36px;
+    font-family: poppins;
+    font-weight: 700;
+    color: #413960;
+}
+
+.button-icon{
+    margin-top: 20px;
+}
+.icon-1{
+    float: left;
+}
+.icon-1 i{
+    margin-right: 10px;
+}
+.icon-2{
+    float:right;
+}
+.icon-2 i{
+    margin-right: 5px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+/* Online course section end */
+
+
+/* Testimonial section start */
+
+.testimonial{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.testimonial h1{
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: poppins;
+    font-weight: 700;
+    font-size: 36px;
+}
+.testimonial-left-section img{
+    width: 120px;
+    height: 120px;
+    margin-left: 35%;
+}
+.testimonial-right-section{
+   margin-top: 25px;
+   font-family: poppins;
+   font-weight: 400;
+   font-size: 16px;
+}
+/* Testimonial section end */
+
+/* footer section start */
+
+.footer{
+    padding-top: 10px;
+    width: 100%;
+    height: 420px;
+    background-color: #282531;
+}
+.footer p{
+    margin-top: 15px;
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align:justify;
+}
+
+table th{
+    font-family: poppins;
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+table td{
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.table td, .table th {
+    padding: 10px;
+}
+.copyright{
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+}
+/* footer section end */
+
+
+
+
+
